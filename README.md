@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Danae</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [ASP.NET Core Web API with JWT Authentication and MongoDB](https://github.com/danae-pan/APIAuth)
 
