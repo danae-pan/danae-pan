@@ -1,7 +1,7 @@
 <h1 align="center">Yo Danae here</h1>
-<he align="center">I hold an Integrated Master’s degree in Electrical and Computer Engineering, specializing in Telecommunications and Wireless Networking and I am currently persuing a Master's degree in Human Centered AI focusing on Computer Graphics. </h3>
+<he align="center">I am a Penetration Tester, holding an Integrated Master’s degree in Electrical and Computer Engineering, specializing in Telecommunications and Wireless Networking as well as a Master's degree in Computer Graphics. </h3>
 
-- 🔭 I’m currently working on [ASP.NET Core Web API with JWT Authentication and MongoDB](https://github.com/danae-pan/APIAuth)
+- 🔭 I’m currently writing my blog on Hacking hacks and write-ups, find it <a href="https://danae-pan.github.io/Blog/" target="_blank">here</a>.
 
 - 📫 Ping me hereee **danaepanagiot@hotmail.com**
 
