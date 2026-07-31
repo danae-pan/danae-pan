@@ -1,7 +1,5 @@
 <h1 align="center">Yo Danae here</h1>
-<he align="center">I am a Penetration Tester, holding an Integrated Master’s degree in Electrical and Computer Engineering, specializing in Telecommunications and Wireless Networking as well as a Master's degree in Computer Graphics. </h3>
-
-- 🔭 I’m currently writing my blog on Hacking hacks and write-ups, find it <a href="https://danae-pan.github.io/Blog/" target="_blank">here</a>.
+<he align="center">I am a 2D Artist/Illustrator and a Penetration Tester, holding an Integrated Master’s degree in Electrical and Computer Engineering, specializing in Telecommunications and Wireless Networking as well as a Master's degree in Computer Graphics. </h3>
 
 - 📫 Ping me hereee **danaepanagiot@hotmail.com**
 
