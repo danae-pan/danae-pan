@@ -97,29 +97,47 @@
   </a>
 </p>
 
+<!-- TESTING -->
+
+<h3 align="left">Testing:</h3>
+<p align="left">
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+         alt="Jest" width="40" height="40"/>
+  </a>
+</p>
+
 
 <!-- CYBERSECURITY -->
 
-<h3 align="left">Cybersecurity & Testing:</h3>
+<h3 align="left">Cybersecurity:</h3>
 <p align="left">
+
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/burpsuite"
+         alt="Burp Suite" width="40" height="40"/>
   </a>
+
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"
+         alt="Nmap" height="40"/>
   </a>
+
   <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/tenable" alt="Nessus" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Nessus-00A5A8?style=flat-square"
+         alt="Nessus" height="40"/>
   </a>
+
   <a href="https://owasp.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/owasp" alt="OWASP" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/owasp"
+         alt="OWASP" width="40" height="40"/>
   </a>
+
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+         alt="Postman" width="40" height="40"/>
   </a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-  </a>
+
 </p>
 
 
@@ -129,38 +147,42 @@
 <p align="left">
 
   <a href="https://www.clipstudio.net/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Clip%20Studio%20Paint-CSP-8A2BE2?style=for-the-badge"
+    <img src="https://img.shields.io/badge/Clip%20Studio%20Paint-6E4C8A?style=flat-square"
          alt="Clip Studio Paint" height="40"/>
   </a>
 
   <a href="https://procreate.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Procreate-Digital%20Art-000000?style=for-the-badge"
+    <img src="https://img.shields.io/badge/Procreate-222222?style=flat-square"
          alt="Procreate" height="40"/>
   </a>
 
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+         alt="Adobe Illustrator" width="40" height="40"/>
   </a>
 
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+         alt="Adobe Photoshop" width="40" height="40"/>
   </a>
 
   <a href="https://affinity.serif.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Affinity-Designer-7E4DD2?style=for-the-badge"
+    <img src="https://img.shields.io/badge/Affinity%20Designer-7651A8?style=flat-square"
          alt="Affinity Designer" height="40"/>
   </a>
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+         alt="Figma" width="40" height="40"/>
   </a>
 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+         alt="Blender" width="40" height="40"/>
   </a>
 
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Premiere%20Pro-Adobe-9999FF?style=for-the-badge"
+    <img src="https://img.shields.io/badge/Premiere%20Pro-7777AA?style=flat-square"
          alt="Adobe Premiere Pro" height="40"/>
   </a>
 
@@ -173,16 +195,18 @@
 <p align="left">
 
   <a href="https://www.renpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Ren'Py-Visual%20Novels-FF7F9F?style=for-the-badge"
+    <img src="https://img.shields.io/badge/Ren'Py-FF7F9F?style=flat-square"
          alt="Ren'Py" height="40"/>
   </a>
 
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
+         alt="Unity" width="40" height="40"/>
   </a>
 
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
+         alt="Unreal Engine" width="40" height="40"/>
   </a>
 
 </p>
@@ -190,21 +214,13 @@
 
 <!-- LOCALIZATION -->
 
-<h3 align="left">Localization:</h3>
+<h3 align="left">Localization Tools:</h3>
 <p align="left">
 
   <a href="https://omegat.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OmegaT-CAT%20Tool-3A8DDE?style=for-the-badge"
+    <img src="https://img.shields.io/badge/OmegaT-3A8DDE?style=flat-square"
          alt="OmegaT" height="40"/>
   </a>
-
-  <a href="https://www.renpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Visual%20Novel-Localization-BA68C8?style=for-the-badge"
-         alt="Visual Novel Localization" height="40"/>
-  </a>
-
-  <img src="https://img.shields.io/badge/LQA-Localization%20Testing-6A5ACD?style=for-the-badge"
-       alt="LQA" height="40"/>
 
 </p>
 
@@ -215,7 +231,8 @@
 <p align="left">
 
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
+         alt="MATLAB" width="40" height="40"/>
   </a>
 
 </p>
@@ -227,19 +244,23 @@
 <p align="left">
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+         alt="Git" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/github"
+         alt="GitHub" width="40" height="40"/>
   </a>
 
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/jira" alt="Jira" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/jira"
+         alt="Jira" width="40" height="40"/>
   </a>
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+         alt="Linux" width="40" height="40"/>
   </a>
 
 </p>
