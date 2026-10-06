@@ -1,5 +1,6 @@
 <h1 align="center">Yo Danae here</h1>
-<he align="center">I am a 2D Artist/Illustrator and a Penetration Tester, holding an Integrated Master’s degree in Electrical and Computer Engineering, specializing in Telecommunications and Wireless Networking as well as a Master's degree in Computer Graphics. </h3>
+<he align="center">Somewhere between art, games, code, and cybersecurity.
+I’m a 2D Artist/Illustrator and Penetration Tester with an Integrated Master’s in Electrical & Computer Engineering and an MSc in Computer Graphics. Most days you’ll find me drawing characters, working on games and visual novels, or breaking things for security purposes.</h3>
 
 - 📫 Ping me hereee **danaepanagiot@hotmail.com**
 
